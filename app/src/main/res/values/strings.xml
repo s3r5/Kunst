@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KuntFinal</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Explore</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="opis">Kužno znamenje v Mariboru je pomnik na Glavnem trgu v Mariboru, postavljen v zahvalo za konec kuge, ki je v 17. stoletju terjala življenje tretjine prebivalstva. V zahvalo za konec kuge so mariborski prebivalci leta 1681 postavili kužno znamenje - steber s podobo Marije vnebovzete. Nad njeno glavo je venec iz dvanajstih zvezd in pod njenimi nogami mesec.
+
+    Kip so v 18. stoletju (leta 1743) nadomestili z današnjim, ki je delo mariborskega umetnika Jožefa Štrauba. Spomenik je eno njegovih najboljših del, obenem pa sodi med vrhunska dela slovenskega baroka. Okoli Matere božje je razvrščenih šest svetnikov, priprošnikov zoper kugo, kasneje je oltarnemu vznožju, obdanemu s figurami, bila dodana še ograja.
+
+    Današnji spomenik na Glavnem trgu je kopija. Izvirne kipe in druge dele so med obnovo leta 1990 nadomestili z replikami, njih pa shranili na dvorišču mariborskega pokrajinskega arhiva, kjer so ostali izpostavljeni vremenskim pojavom in nevzdrževani. Leta 2003 so bili premeščeni v skladiščni prostor.
+</string>
+
+</resources>
