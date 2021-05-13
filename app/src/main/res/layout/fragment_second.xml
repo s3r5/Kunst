@@ -14,18 +14,6 @@
         android:layout_weight="60"
         tools:context=".MapsActivity" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="379dp"
-        android:layout_height="609dp"
-        android:text="@string/opis"
-        android:textAlignment="textStart"
-        android:textSize="18sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <Button
         android:id="@+id/button_second"
         android:layout_width="wrap_content"
@@ -34,4 +22,26 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="80dp"
+        android:scrollbars="vertical"
+        app:layout_constraintBottom_toBottomOf="@+id/button_second"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/map"
+        app:layout_constraintVertical_bias="0.534">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="347dp"
+                android:text="@string/opis"
+                android:textSize="20sp" />
+    </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
