@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "512425782467",
+    "project_id": "formal-net-313509",
+    "storage_bucket": "formal-net-313509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512425782467:android:324b9da85bee12027f8676",
+        "android_client_info": {
+          "package_name": "si.sers.projektnidan.kunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512425782467-2co8uhgr184q11evp1v5ab890mn8d3ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "si.sers.projektnidan.kunt",
+            "certificate_hash": "26bceb9b9541320920c67aafd6c404ad3f687d76"
+          }
+        },
+        {
+          "client_id": "512425782467-m78p21psgfs5ded8s077vumlai7o9a10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "si.sers.projektnidan.kunt",
+            "certificate_hash": "d7a4499acc2a778b88d78466c1fbfe066ca80998"
+          }
+        },
+        {
+          "client_id": "512425782467-1qig7jsv5sdcglps121c5bgvppbv5dop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBG8ZwU9HAvODlK054AoAnmyyObgDWqs"
+        },
+        {
+          "current_key": "AIzaSyCpWB7b3ACrWvJKnEWVeblON5oKKY2aOlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512425782467-1qig7jsv5sdcglps121c5bgvppbv5dop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512425782467:android:f181e9daf064e6e37f8676",
+        "android_client_info": {
+          "package_name": "si.sers.projektnidan.kuntfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512425782467-lk3hj2p5fk3usch66mdkhe5n3spjm8th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "si.sers.projektnidan.kuntfinal",
+            "certificate_hash": "26bceb9b9541320920c67aafd6c404ad3f687d76"
+          }
+        },
+        {
+          "client_id": "512425782467-1qig7jsv5sdcglps121c5bgvppbv5dop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBG8ZwU9HAvODlK054AoAnmyyObgDWqs"
+        },
+        {
+          "current_key": "AIzaSyCpWB7b3ACrWvJKnEWVeblON5oKKY2aOlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512425782467-1qig7jsv5sdcglps121c5bgvppbv5dop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
